@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The troubles of Israel, or, The English achan pursued, and his foot-steps partly discovered by one that hopes to be kept from admiring any mans person for advantage sake; yet freely desires to give honour to whom honour and fear to whom fear is due.</title>
+            <author>T. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08612</idno>
+            <idno type="STC">Wing C142BA</idno>
+            <idno type="STC">ESTC R173312</idno>
+            <idno type="EEBO-CITATION">62369059</idno>
+            <idno type="OCLC">ocm 62369059</idno>
+            <idno type="VID">187814</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08612)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187814)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2845:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The troubles of Israel, or, The English achan pursued, and his foot-steps partly discovered by one that hopes to be kept from admiring any mans person for advantage sake; yet freely desires to give honour to whom honour and fear to whom fear is due.</title>
+                  <author>T. C.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Brewster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187814:1"/>
+            <pb facs="tcp:187814:1"/>
+            <pb facs="tcp:187814:2"/>
+            <pb facs="tcp:187814:2" rendition="simple:additions"/>
+            <p>THE TROUBLES OF ISRAEL OR THE ENGLISH <hi>ACHAN</hi> Purſued, And his Foot-ſteps partly diſcovered.</p>
+            <p>By one that hopes to be kept from ad<g ref="char:EOLhyphen"/>miring any mans perſon for advantage ſake; yet freely deſires to give Honour to whom Honour, and Fear to whom Fear is due.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 18.9.</hi>
+               </bibl>
+               <p>He that is ſlothful in his work is brother to him that is a great waſter.</p>
+               <p>He that being often reproved hardneth his neck ſhall ſuddenly be deſtroyed without remedy.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Brewſter</hi> at the three Bibles at the Weſt end of <hi>Pauls.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:187814:3"/>
+            <pb n="3" facs="tcp:187814:3"/>
+            <head>The troubles of <hi>Iſrael</hi> or the Engliſh <hi>Achan</hi> perſued and his footſteps partly diſcovered, by one that hopes to be kept from admiring any mans perſon for advantage ſake, yet freely deſires to give honour to whom honour, and fear to whom fear is due.</head>
+            <p>
+               <seg rend="decorInit">S</seg>O wonderful are the ſearching and unmask<g ref="char:EOLhyphen"/>ing Providences of the Lord, which of late appeared amongſt us, together with the mani<g ref="char:EOLhyphen"/>fold and woful miſcarriages of thoſe who once ſeemed to be well qualified, and were by what was diſcernible judged to be meet in<g ref="char:EOLhyphen"/>ſtruments for the carrying on the Lords work in theſe Nati<g ref="char:EOLhyphen"/>ons; That unto all who would be kept pure, blameleſſe, and ſteddy in their moſt holy faith, till this oppearing, whoſe coming is as a refiners fire, <hi>&amp;c.</hi> Renewed and freſh occa<g ref="char:EOLhyphen"/>ſions are given at this day, to be diligently obſerving the operations of God in the Earth, and ſeriouſly and imparti<g ref="char:EOLhyphen"/>ally to be reflecting upon their own hearts and ſpirits to try and prove whether the principles they are at preſent in, they practiſe or retain a ſufficient Character or ſymptome of that anointing which abides and qualifies the ſoul to make good proof of its integrity &amp; faithfulneſſe to the Lord, when brought to the Teſt in the face of greater temptations then herberto hath been met with, or probably is expected by many.</p>
+            <p>And it being none of the leaſt concernments of theſe for whom the Lord hath (not withſtanding their unworthineſs) once more ſtretched forth his mighty Arme to be found ex<g ref="char:EOLhyphen"/>erciſing themſelves therein; unto them therefore of what rank, quality, or ſort ſoever they be (as well Governours as Governed) by way of more ſpecial a dvertiſement, its
+<pb n="4" facs="tcp:187814:4"/>judged what followes may not be unſeaſonably preſented.</p>
+            <p>
+               <hi>Sirs,</hi> Though doubtleſſe the deſign of the Creator at firſt in making man of nothing and raiſing him unto that Eſtate wherein he was before the fall, had in it a tendency of fur<g ref="char:EOLhyphen"/>ther light and glory to have been communicated &amp; brought forth unto <hi>Adam,</hi> yet we have (though wofully) experience that the none improvement of that ability light and life, to the end for which it was given, occaſioned no leſſe then the loſſe of all the Excellency and Dominion propounded to that Eſtate, changed the liberty of the whole Creation into bondage from which it ſtill groanes to be delivered, and were it not that the Lord in exceeding wiſdome &amp; grace ſet the regoining to himſelf the works of his hands by a new and living way, the preſent hope and earneſt expecta<g ref="char:EOLhyphen"/>tion of the Creature had been eternally void; but ever bleſſed be his name, that as ſin abounded his grace abound<g ref="char:EOLhyphen"/>ed much more.</p>
+            <p>And ſhould we thus gradually deſcend to take notice of the manifold examples of like nature extant in Scriptures or otherwiſe from the days of <hi>Abell</hi> until now, how might the burthen of their calamities, which befel ſuch as anſwered not the deſign of God in their day according to the oppor<g ref="char:EOLhyphen"/>tunities given them ſo to do, ſerve to awaken all in whom there remaines any kind of deſire to be meeting the Lord in his comings forth to reduce the Nations to himſelf, to a ſerious watchfulneſſe, leſt at any time through the temp<g ref="char:EOLhyphen"/>tations of the fleſh they ſhould be found oppoſers of him who will not fail one day to reckon with all the Sons of Anti<g ref="char:EOLhyphen"/>chriſt, for all their evil deeds, hard ſpeeches, and ſecret con<g ref="char:EOLhyphen"/>ſultations againſt the Lord and his Anointed.</p>
+            <p>The too too manifeſt appearance of ſuch things in our day calls for more then an ordinary lamentation at the hands of Engliſh men, that after ſo many eminent and ſig<g ref="char:EOLhyphen"/>nal demonſtrations of the Lords intentions to work a mighty work ſuch as hath not been uſually heard of amongſt us, there ſhould yet be found ſo much reſolute implacable enmity in the heart of this Nation, which ſtouts it ſelf out
+<pb n="5" facs="tcp:187814:4"/>to the perfecting its rebellion (and conſequently their deſtruction who are acted by it) againſt the Council and ſolemn determination of the moſt high to ſet his mountain a top of all the mountains, <hi>&amp;c.</hi>
+            </p>
+            <p>But it is obſervable that the peremptory inraged at<g ref="char:EOLhyphen"/>tempts and breakings forth of thoſe Children of diſobe<g ref="char:EOLhyphen"/>dience, in whom the old Enemy or Prince of the Air thus worketh, to do all the diſpight they can to the ſimple and pure intereſt of God, ever precedes its own downfal and ruine; as being thereby fitted, ripned, and prepa<g ref="char:EOLhyphen"/>red for deſtruction and ſhame; and yet unto this degree of ungodlineſs and impiety it ſeldome worketh until by ſome ſeeming pretence of zeal for truth, it hath very much intereſſed and twiſted it ſelf into the Hearts and Loines of ſuch as are intruſted with Dominion and power to rule and govern for God in the Earth.</p>
+            <p>So that its humbly conceived of all men, perſons placed in Authority are moſt lyable (though but for a miſerable reward) to become the ſervants of ſin, <hi>(viz)</hi> the great ſin of ſetting up the great abomination that maketh deſo<g ref="char:EOLhyphen"/>late; and therefore it can hardly be expreſſed how deep<g ref="char:EOLhyphen"/>ly it concerns all ſuch, eſpecially thoſe in this Nation where the Lord hath ſo often and ſo highly ſignified his diſpleaſure againſt the diſobedient, ſtubborn, and perverſe contrivances of their predeceſſors, to be exceeding careful, leaſt through an evil heart of unbelief they are led away to the ſame (if not a greater) exceſſe of Riot, with thoſe who for want of ability to follow the Lamb whereſoever hewent have periſhed in the mid-way.</p>
+            <p>Now for that the Lord hath once more put opportuni<g ref="char:EOLhyphen"/>ty into the hands of ſuch as have the over-ſight of rule and Governance in <hi>England</hi> to be preſſing forward, by all that they are or may be, to anſwer the deſign of God in their day, by exalting juſtice, judgement, and equity, and to cauſe Righteouſneſſe and truth, (in truth) to run down like a mighty ſtream amongſt us; and in all their under<g ref="char:EOLhyphen"/>takings for liberty, to have faithful reſpect to the pure liberty of the Sons of God.</p>
+            <p>
+               <pb n="6" facs="tcp:187814:5"/>
+The remnant of the Woman-ſeed the faithful ſervants of the moſt high, are therefore not onely engaged in an expectation of it, and earneſtly, and affectedly to be im<g ref="char:EOLhyphen"/>ploring from them a daily manifeſtation of ſuch fruits as are conduceble to the advancing this intereſt <hi>(viz.)</hi> the liberty of the Sons of God, above and beyond all other private intereſts that would be upper moſt and have the preheminence in the world; but alſo if for theſe things (under what pretence ſoever or that the time of building the Lords houſe is not yet come) ſhall ſeem to be leaſt of all concerned, or ſo ſtrive to order the matter if any thing (muſt be ſquezed, from them towards the building the Lords houſe) ſo do it as it may conduce to the advancing their own houſes alſo &amp; not otherwiſe; then it becometh all that are in expectation of their Lot in their inheritance of the Sons of God, to be found in the diſcharge of their duty towards their rulers by dealing plainly and candidly with them, laying before them not onely, the ſad and woful effects that hath in times paſt been produced by a careleſſe and corrupted appearance in the work of the Lord, but alſo as opportunity and ability is given to be ſpreading forth the evil and dangerous conſequents that are like to attend their putting far from them the day of God, and the retardings of his work, eſpecially when no leſſe then a continued ſeries of providences from time to time <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear after year, holds forth ſo high a teſtimony for the Lord, and a diſcovery of his deſign as in this Nation it hath done.</p>
+            <p>As therefore, good reaſon it is, we ſhould as well in reſpect of the glory of God, the honour and ſafety of our ſuperiours, as for our own peace and advantage in our more ſpecial, and ſpiritual concernments, to be found in a timely and faithful diſcharge of what is ſo much in<g ref="char:EOLhyphen"/>cumbent upon us.</p>
+            <p>Let it not then be ill taken by any who are reſtored to their former ſtations and places of truſt in power (and thereby to greater opportunities of following the Lord
+<pb n="7" facs="tcp:187814:5"/>more fully) that in ſuch a manner for that end they are ſo often ſolemnly and faithfully addreſſed unto by the poor deſpiſed and bruiſed people of the Lord in this Nation, begging, intreating, and perſwading, by all the arguments of love and terror, that either the Scriptures of truth, the diſpenſations paſt, or ſuch as we are at preſent under can furniſh them with, that a hardned heart of ingra<g ref="char:EOLhyphen"/>titude and impiety might not be found amongſt them, with which inſtead of bearing rule for God, men too oft appear in the exerciſe of their own wills, and that they may gain unto themſelves or Families, a portion in the beggerly periſhing vain Glory of this world that ere long muſt paſſe away like a ſcroul, too far proceed in a denial of the Lord that bought them, but rather a meekned, ſoftned frame of ſpirit apt and ready to take what further impreſſion the Lord hath to imprint upon it, leſt the con<g ref="char:EOLhyphen"/>trary bring upon us an over-flowing ſcourge, and inunda<g ref="char:EOLhyphen"/>tion of ſuch calamity as hath not been experienced or late<g ref="char:EOLhyphen"/>ly heard of: for our mercies hath exceeded, and the ſpirit of God will not alwaies ſtrive with man, and who knows how ſoon ſuch as will not that Chriſt ſhould Raign over them, may for their unworthy refuſal of that honour be either expoſed to ſhame, bondage, and contempt, or elſe called for to be brought forth and ſlain before his face.</p>
+            <p>Were the thoughts of theſe things, and for what end the Lord ſuffered the Parliament to be interrupted at firſt and now recalled to their former authority, together with the many ſpecial circumſtancies that hath attended thoſe tranſactions, more ſeriouſly and generally with them, then as it may be feared it is, ſurely the effects thereof would be otherwiſe then yet we have (or by the good wills of many) are like to experience. But the juſt Lord who yet exerciſeth his patience and long-ſuffering towards the ſons of Men, if hapily they will feel after him and repent, <hi>&amp;c.</hi> will not be mocked at laſt. Be wiſe therefore O yee Kings and be inſtructed O yee Judges of the earth, ſtand
+<pb n="8" facs="tcp:187814:6"/>in awe ſin not, ſerve the Lord with fear leſt he ſpeak to you in his wrath and vex you in his ſore diſpleaſure.</p>
+            <p>Should the time of the foreſaid interruption, or that which too juſtly occaſioned the ſhaking of the rod in that manner, be but a little reminded or enquired after, would it not appear too manifeſtly, that with many of them, who ſuffed that contradiction, it was a ſeaſon of ſecurity and ſlothfulneſſe to any thing the voice of that day called for on the behalf of the Lords work ſo eminently begun and ſet a foot amongſt us, for whoſe ſake many worthy and renowned victories were given, and much honour done to many that adheared thereunto; yet I ſay, do but a little reflect upon the paſſages of that time, and what ſelfiſhneſs, covetouſneſſe, pride, and wantonneſſe, will appear to be the charge and guilt of that day; and what advantage and opportunity was thereby given unto others to become what they ought not to be, greatning and magnifying them<g ref="char:EOLhyphen"/>ſelves above their fellows, and under the pretence of re<g ref="char:EOLhyphen"/>moving the aforeſaid evils, Acted too much the evil ſer<g ref="char:EOLhyphen"/>vants part that ſaid in his heart, my Lord delays his coming, and to do ſuch things as brought a very ſore and grie<g ref="char:EOLhyphen"/>vous reproach upon the very name of Religion profeſt by Engliſh men.</p>
+            <p>But this as a deceitful uſurpation for that it was not im<g ref="char:EOLhyphen"/>proved to the end for which it was pretendedly acted, eſcaped not the laſh of the Lords juſt and righteous hand; and ſo as that it may even ſerve to convince us if we be not altogether ſtupid.</p>
+            <p>That now the Lopping of a few ſuperfluous over reach<g ref="char:EOLhyphen"/>ing Branches is not all ſuch attempts expoſeth the tranſ<g ref="char:EOLhyphen"/>greſſour in that kind unto, but the Axe is laid to the root of the Tree, and that the ambitious endeavours of man to leave himſelf a name in the Earth, is the onely way to be written Childleſſe in the honour and truſt of Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>What of this kind of blaſting or diſappointment hath apparently paſſed upon the like projections of ſuch as
+<pb n="9" facs="tcp:187814:6"/>once were ſerviceable to their Countrey in the day of Battel, wants not its evidence to prove it, and that the eyes of the Lord are towards the footſteps of men, ſtrictly weighing and obſer<g ref="char:EOLhyphen"/>ving all their motions whether they are ſuch as duly an<g ref="char:EOLhyphen"/>ſwer the end of providence or keep any pace with his deſign or not, and accordingly will bring to light the ſecret intenti<g ref="char:EOLhyphen"/>ons of their hearts and wherein they are a contriving to doe injury to the cauſe and intereſt of Chriſt, that evil he will cer<g ref="char:EOLhyphen"/>tainly cauſe to deſcend upon their own pates: it begins to be more commonly received for truth, that he who digs a pit for another ſhall fall into it himſelf.</p>
+            <p>And it may be as rightly conjectured that the hurt of many (whoſe perſons and reputations are too juſtly under a cloud at this day) took being with the change of their names and titles, for Colonels to Lords, from leſs to more, from O C. to O P, &amp;c. Let it therefore be the wiſdome of the people and their heads this day, by other mens harms to beware of doing or contriving any thing that may revive or give length of daies, to the tottering intereſt of the beaſt and falſe Prophet: for to run greedily after the errour of <hi>Balaam</hi> for reward, hazards a periſhing in the gainſayings of <hi>Core.</hi> Twas the ſafe<g ref="char:EOLhyphen"/>ty of <hi>Laban</hi> and <hi>Eſau</hi> that <hi>Jacob</hi> became a Prince, prevailing with God and with men, it would have been <hi>Pharaoh</hi>'s advan<g ref="char:EOLhyphen"/>tage, had he been ſo conquered, twas his deſtruction to follow <hi>Iſrael</hi> to the Read Sea, it will be the ſtill peace and proſ<g ref="char:EOLhyphen"/>perity of Rulers to give the Lords people liberty, to follow him whereſoever he goes.</p>
+            <p>A ſhew or flouriſh of this ſeemed not long ſince to preſent it ſelf amongſt us as if our Magiſtrates intended to be firſt in bringing the greatneſſe of their treaſures to Chriſt, and were now reſolved upon all terms to joyn iſſue with him and be<g ref="char:EOLhyphen"/>come nurſing Fathers to his people, <hi>&amp;c.</hi>
+            </p>
+            <p>It's well it proves more ſubſtantial and that the occaſion the Lord hath once more taken (by the rebellion of others) to roul away that reproach from the remnant of his poor people in <hi>England,</hi> be obſerved according to the manifeſt deciſion it hath made between the true friends of <hi>Iſrael</hi> and the trou<g ref="char:EOLhyphen"/>bles or <hi>Achans</hi> of our day, and their Abettors.</p>
+            <p>
+               <pb n="10" facs="tcp:187814:7"/>
+The fruits of whoſe vexatious Spirits, ſo plentifully gratify<g ref="char:EOLhyphen"/>ing the Ballad ſingers imployment, which are inſufficient to vindicate their innocency or any waies conceal their agree<g ref="char:EOLhyphen"/>ment with death, however they think its taken for graunted that the late abominable deſign of War was onely grounded upon a Cavaleer bottom, (<hi>viz.</hi> the intereſt of the old Roya<g ref="char:EOLhyphen"/>liſt) but the parallel proceedings and pretences of <hi>Dunbar, Worceſter,</hi> and <hi>Weſtcheſter,</hi> give (eſpecially to ſuch as have eſ<g ref="char:EOLhyphen"/>caped their ſnares) too much cauſe to judge otherwiſe, and that they ſend not their old Loyalty a mourning for nothing, be<g ref="char:EOLhyphen"/>ſides the manifold diſtguſtings, ſhaking the head and gnaſhing the teeth in this City and elſe where at the Churches and o<g ref="char:EOLhyphen"/>thers for their conformity to the Parliament together with their tauntings at the independent, that now they had diſcove<g ref="char:EOLhyphen"/>red themſelves, by joyning with the Anabaptiſts and others, further demonſtrates the ſpirits and principles of that Gene<g ref="char:EOLhyphen"/>ration of men. And it may alſo ſerve to induce our rulers otherwiſe then at preſent they do, to encourage ſuch as in the face of difficulty and reproach, have proved themſelves faith<g ref="char:EOLhyphen"/>ful to the Lord and their Countrey, for it will be taken but for a ſlender argument of reſpect or true kindneſſe unto any to be called upon for aſſiſtance in the day of trouble, and as ſoon as the ſtorm is but a little paſt again to be ſlighted and rejected, but better things are hoped, or at leaſt wiſhed for to be the reward of friends, <hi>&amp;c.</hi> And ſeeing the Lords hand appear'd ſar towards the demoliſhing ſome <hi>ſtately boothes</hi> amongſt us of late let it move us to preſſe forward in the ſeek<g ref="char:EOLhyphen"/>ing after a City whoſe builder and maker is God,<note place="margin">☞</note> and to ceaſe tabernacling in the concernments of a lower nature, leaſt through much ſtriving for maſterſhip and dominion in <hi>Iſrael,</hi> it be diſcovered we are yet ignorant of the firſt prin<g ref="char:EOLhyphen"/>ciples of the Kingdome of God. And therefore be it known unto all that judge themſelves concernd, that as the greater is not comprehended of the leſſe but the leſſe of the greater, ſo the ſpiritual is not comprehended of the civil intereſt but the civil of the ſpiritual, and ere long, (however our being emptied from veſſel to veſſel hath no more prevailed with men) it will appear that, that which formerly hadan excellency
+<pb n="11" facs="tcp:187814:7"/>in it, hath now none becauſe of that which doth excel, and then ſo much the more dangerous will it be for a Nation to be lift<g ref="char:EOLhyphen"/>ing the heel againſt the Lord when his deſign is to make them a people more excellent then their neighbours. It could be wi<g ref="char:EOLhyphen"/>ſhed therefore, that it were not with many now, as with <hi>Saul</hi> in times paſt who when he knew that the Kingdom muſt be rent from him, coveted to have the name of walking in end out before the people, ſo that with men only ambitious of honour, when none other can be (obtained) a ſhew of dignity &amp; dominion will ſerve till by having recourſe to ſome falſe guides, or old maximes of ſtate policy given by <hi>Ariſtotle, Matchavil,</hi> and the like, they judge themſelves in a capacity to ſttruggle for ſomething more, whileſt the ſeed of the true <hi>Mordecay</hi> onely addreſſing it ſelf to the father of ſpirits re<g ref="char:EOLhyphen"/>ceives encouragement to deſpiſe the vanity and haughtineſſe of <hi>Haman</hi> in the gate, and are ſtrengthned to believe that if, (after much intreating and patience) by perſons in authority opportunities are neglected, the ſubſtance of true honour and deliverance ſhall come to them another way, and then ſuch as have not been faithful in a little, will not be judged worthy to be made rulers over much.</p>
+            <p>Therefore all yee in this Nation (whether in Parliament, Council, or Army) whom God hath exalted that yee might magnifie him, and exalt his name before the people be then every one of you, yet prevailed with, ere it be too late (if there be any hope, any beauty, any excellency, any conſolation or ſalvation in the intereſt and Kingdome of the Son of God, to mind theſe things: let not your hearts (in oppoſition to the approachings and drawings near of his glory) be ſet upon things that periſh, it was the miſcarriage of others, let it not be yours, to put too a great price upon what you are or have, rather let a due improvement thereof be made to the honour of his moſt holy name, in whoſe hands all the hearts and lives are to diſpoſe of at his pleaſure, who hath once more taken occaſion to try and prove yours, by putting ſuch opportuni<g ref="char:EOLhyphen"/>ties into your hands to redeem the times paſt, that if ye ſhould grow careleſſe, negligent, or remiſſe therein, 'Twill ſurely be accompted for, and what damage and detriment is thereby oc<g ref="char:EOLhyphen"/>caſioned to the intereſt of the Lord and his deople, will cer<g ref="char:EOLhyphen"/>tainly
+<pb n="12" facs="tcp:187814:8"/>be required at your hands who are found guilty of ſuch neglect, be you ever ſo highly exalted in the intereſt and pomp of this vain glorious world, for the Lord raigns he hath clothed himſelf with Majeſty, and with ſtrength wherewith he girds himſelf, to reckon with all the wicked and proud doers of the Earth, this diſcourſe or faithful advertiſement proceeds not from any evil will diſreſpect or prejudice the Author re<g ref="char:EOLhyphen"/>taines againſt any mans perſon now in Power, but a ſenſe of the evil of our doings in times paſt, and the face of things too much reflecting upon what was not then acceptable, much leſſe in a day of further light Creates a jealouſie for truth, and the welfare of ſuch as are and ought to be concerned for it, fearing leaſt by agravating our former offences we bring upon our ſelves and others the greater damnation or judgement, <hi>&amp;c.</hi> And though it may be truly aſſerted that it is the concernment of Engliſh men in general, this day, to follow hard after a thorogh or more excellent reformation, yet its not intended here by any means, that a ſlighting or undervaluing whats re<g ref="char:EOLhyphen"/>ceived in order thereunto, (be it ever ſo ſmall) ſhould be be<g ref="char:EOLhyphen"/>gotten in the hearts of any, no, far be it from every one that feares the Lord ſo to do, rather let all ſtudy thankfully to im<g ref="char:EOLhyphen"/>prove what we are made partakers of, to its right uſe and end that God may be glorified and our ſelves redeemed from the corruption and bondage of this ſinful world, into the precious liberty of the Sons of God, which ought to be the onely aim of all our leaders, and is the excellent deliverance both longed and hoped for</p>
+            <closer>
+               <signed>
+                  <hi>By their well wiſher,</hi> T C.</signed>
+               <date>22. 7 <hi>month.</hi> 59.</date>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <p>Here ſhould have been annexed to this a brief enquiry after a ſymptome or manifeſtation of that principle that is able to preſerve the ſoul in the hour and power of darkneſs, and keep it unſpotted in the midſt of the great temptations that are a coming upon all the earth to try them that dwell therein, together with a glymps of the St. or ſpiritual mans concernment in a day of rebuke but for want of convenient opportunity, and for ſome other reaſons <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the Author it is at preſent omitted, only for the en<g ref="char:EOLhyphen"/>couragment of ſuch as deſire to follow the Lord full and to lean upon him in an evil time, let me commend unto yee the aſſertion and experience of a well tried ſervant of the Lord, <hi>Pſal.</hi> 33.18. that the eye of the Lord is upon them that fear him, and have a hope in his mercy to deliver their ſoules from death, and to keep them alive in a day of Famine.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187814:8"/>
+            <pb facs="tcp:187814:9"/>
+            <pb facs="tcp:187814:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
